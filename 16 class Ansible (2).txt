@@ -1,0 +1,12 @@
+ANSIBLE y u can use (TIME SAVE )
+server taken-
+epel-relise install
+ next ansible install 
+next targetmichel taken sh-key jen comand run
+public key will coppy in master 
+  next playbook create 
+       inventree create
+play book excicute next 
+targetmichel lo enjinexs install 
+
+Java install at a time on ten servires by using ansible
